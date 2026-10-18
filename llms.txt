@@ -1,0 +1,10 @@
+# Rafael Aquino — Portfolio
+
+> Physics student transitioning into software development, with a focus on Python,
+> backend development, and data.
+
+Static single-page portfolio. Public content only; no tracking, no third-party requests.
+
+## Sections
+
+- [About, Skills, Projects, Languages, Contact](https://exec-er.github.io/)
